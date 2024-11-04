@@ -1,0 +1,8 @@
+C:\Users\hathh\Desktop\123\casp3r\casp3r\bin\Debug\casp3r.exe.config
+C:\Users\hathh\Desktop\123\casp3r\casp3r\bin\Debug\casp3r.exe
+C:\Users\hathh\Desktop\123\casp3r\casp3r\bin\Debug\casp3r.pdb
+C:\Users\hathh\Desktop\123\casp3r\casp3r\obj\Debug\casp3r.csproj.AssemblyReference.cache
+C:\Users\hathh\Desktop\123\casp3r\casp3r\obj\Debug\casp3r.csproj.SuggestedBindingRedirects.cache
+C:\Users\hathh\Desktop\123\casp3r\casp3r\obj\Debug\casp3r.csproj.CoreCompileInputs.cache
+C:\Users\hathh\Desktop\123\casp3r\casp3r\obj\Debug\casp3r.exe
+C:\Users\hathh\Desktop\123\casp3r\casp3r\obj\Debug\casp3r.pdb
