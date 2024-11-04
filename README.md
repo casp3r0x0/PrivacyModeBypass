@@ -5,7 +5,7 @@ this is a tool I developed to Bypass privacy mode in AnyDesk/team viewer or any 
 for exmaple somebody access to your PC but he activated blackscreen to block you from see what he is doing you can use this program to record what he is doing without any notice. 
 ## features 
  - simple usage 
- - run in backfround without any notice 
+ - run in background without any notice 
  - save the video in current folder 
  - can bypass any blocking mode (over relaying)
 
